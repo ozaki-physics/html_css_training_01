@@ -63,3 +63,4 @@ typings/
 # 自分でgit管理しないものを設定
 terminal_output
 sample
+memo/memo.md
