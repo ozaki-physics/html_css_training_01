@@ -76,6 +76,7 @@ footer {
   text-align: center;
   color: #ffffff;
   padding: 20px 0;
+  background-color: #767671;
 }
 footer small {
   font-size: 12px;
@@ -190,4 +191,25 @@ h2 {
 
 section {
   margin-bottom: 35px;
+}
+
+/* 表のデザイン */
+#about .career th {
+  width: 240px;
+  background-color: #f0f0f0;
+  padding: 12px 0;
+  border: 1px solid #ccc;
+}
+
+#about .career td {
+  width: 660px;
+  padding: 12px 0 12px 40px;
+  border: 1px solid #ccc;
+}
+
+table {
+  /* デフォルトで少し空いているボーダーとボーダーの間隔を調整する */
+  border-spacing: 0;
+  /* ボーダーを重ねて表示し線を細くする */
+  border-collapse: collapse;
 }
