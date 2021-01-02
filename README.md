@@ -1,4 +1,5 @@
 # html_css_training_01
+著作権まわりが不安なので、ずっと private repository にする
 ## 目的　Overview
 htmlとcssの練習用<br>
 4つのデザインを作成する。
