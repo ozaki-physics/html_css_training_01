@@ -19,7 +19,6 @@ $ git clone https://github.com/ozaki-physics/html_css_training_01
 本当なら feature/内容ブランチを作って developブランチにマージして開発する。面倒だから、各章以外は developブランチに直接コミットする。
 
 ## ライセンス　Licence
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## 参考文献　References
 HTML＆CSSとWebデザインが 1冊できちんと身につく本<br>
