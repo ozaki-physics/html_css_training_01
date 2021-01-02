@@ -89,6 +89,7 @@ footer small {
   color: #fff;
   font-family: 'Bitter', serif;
   margin-bottom: 50px;
+  border: none;
 }
 
 #index .content {
@@ -125,6 +126,7 @@ footer small {
   width: 960px;
   margin: 150px auto 0 auto;
   text-align: left;
+  background-color: transparent;
 }
 
 /* フルスクリーンの背景画像 */
@@ -212,4 +214,11 @@ table {
   border-spacing: 0;
   /* ボーダーを重ねて表示し線を細くする */
   border-collapse: collapse;
+}
+
+/* 5章で作ったindex.htmlのデザイン崩れを直す */
+#index #wrap {
+  background-color: transparent;
+  margin-top: 0;
+  padding: 0;
 }
